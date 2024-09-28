@@ -26,3 +26,6 @@ Fault Modes: ONE (HPC Degradation)
 Reference: A. Saxena, K. Goebel, D. Simon, and N. Eklund, ìDamage Propagation Modeling for Aircraft Engine Run-to-Failure Simulationî, in the Proceedings of the Ist International Conference on Prognostics and Health Management (PHM08), Denver CO, Oct 2008.
 
 Datasets available at : https://data.nasa.gov/Aerospace/CMAPSS-Jet-Engine-Simulated-Data/ff5v-kuh6/about_data
+
+<img width="848" alt="Screenshot 2024-09-28 at 14 57 21" src="https://github.com/user-attachments/assets/ec19383d-3c01-4333-b897-afdadd7a1c14">
+
