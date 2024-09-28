@@ -27,5 +27,6 @@ Reference: A. Saxena, K. Goebel, D. Simon, and N. Eklund, ìDamage Propagation M
 
 Datasets available at : https://data.nasa.gov/Aerospace/CMAPSS-Jet-Engine-Simulated-Data/ff5v-kuh6/about_data
 
-<img width="848" alt="Screenshot 2024-09-28 at 14 57 21" src="https://github.com/user-attachments/assets/ec19383d-3c01-4333-b897-afdadd7a1c14">
+<img width="850" alt="Screenshot 2024-09-28 at 18 48 12" src="https://github.com/user-attachments/assets/5aad8396-2361-45b9-9e83-b9253f92590b">
+
 
